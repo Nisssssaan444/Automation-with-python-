@@ -7,7 +7,7 @@ This repository contains Python scripts designed to automate daily tasks and mon
 This script automates the organization of your **Downloads** folder by moving files into appropriate directories (Music, Pictures, Videos, Documents) based on their file extensions.
 
 ### How it Works:
-- **Scans** the `/home/nissan/Downloads` directory.
+- **Scans** the `/home/nissan/Downloads` directory.Here you can change the directory where you want to manage the files .
 - **Categorizes** files based on extensions:
     - `.mp3` -> **Music**
     - `.png`, `.jpg`, `.jpeg` -> **Pictures**
