@@ -54,5 +54,5 @@ python3 rltimemon.py
 ```
 
 ### Output Screenshot:
-![Real Time Monitor Output](path_to_screenshot.png)
-*(Replace this with your actual screenshot)*
+![Real Time Monitor Output](realt.png)
+
